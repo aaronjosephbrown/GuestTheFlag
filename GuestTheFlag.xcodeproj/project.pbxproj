@@ -9,16 +9,16 @@
 /* Begin PBXBuildFile section */
 		129B5B002AC4E07000B88AA9 /* GuestTheFlagApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129B5AFF2AC4E07000B88AA9 /* GuestTheFlagApp.swift */; };
 		129B5B022AC4E07000B88AA9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 129B5B012AC4E07000B88AA9 /* ContentView.swift */; };
-		129B5B042AC4E07100B88AA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 129B5B032AC4E07100B88AA9 /* Assets.xcassets */; };
 		129B5B072AC4E07100B88AA9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 129B5B062AC4E07100B88AA9 /* Preview Assets.xcassets */; };
+		129B5B0E2AC5AF0900B88AA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 129B5B0D2AC5AF0900B88AA9 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		129B5AFC2AC4E07000B88AA9 /* GuestTheFlag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuestTheFlag.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		129B5AFF2AC4E07000B88AA9 /* GuestTheFlagApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuestTheFlagApp.swift; sourceTree = "<group>"; };
 		129B5B012AC4E07000B88AA9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		129B5B032AC4E07100B88AA9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		129B5B062AC4E07100B88AA9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		129B5B0D2AC5AF0900B88AA9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../../Downloads/HackingWithSwift-main/SwiftUI/project2/GuessTheFlag/Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +53,7 @@
 			children = (
 				129B5AFF2AC4E07000B88AA9 /* GuestTheFlagApp.swift */,
 				129B5B012AC4E07000B88AA9 /* ContentView.swift */,
-				129B5B032AC4E07100B88AA9 /* Assets.xcassets */,
+				129B5B0D2AC5AF0900B88AA9 /* Assets.xcassets */,
 				129B5B052AC4E07100B88AA9 /* Preview Content */,
 			);
 			path = GuestTheFlag;
@@ -126,7 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				129B5B072AC4E07100B88AA9 /* Preview Assets.xcassets in Resources */,
-				129B5B042AC4E07100B88AA9 /* Assets.xcassets in Resources */,
+				129B5B0E2AC5AF0900B88AA9 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
